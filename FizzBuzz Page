@@ -3,16 +3,16 @@ This semester in Intro to Information Technology we had to do a common project c
 
 **Here's my FizzBuzz Project:**
 
->for (int i = 1; i <= num; i++) 
-{
-    if (((i % 5) == 0) && ((i % 7) == 0)) 
-        System.out.println("fizzbuzz");
-    else if ((i % 5) == 0) 
-        System.out.println("fizz");
-    else if ((i % 7) == 0) 
-        System.out.println("buzz");
-    else
-        System.out.println(i); 
-}
+    for (int i = 1; i <= num; i++) 
+    {
+        if (((i % 5) == 0) && ((i % 7) == 0)) 
+            System.out.println("fizzbuzz");
+        else if ((i % 5) == 0) 
+            System.out.println("fizz");
+        else if ((i % 7) == 0) 
+            System.out.println("buzz");
+        else
+            System.out.println(i); 
+    }
 
 This was a **very** challenging project for me to complete considering I'm brand new to coding. Whether it is 100% correct or not I'm not sure, but I'm still proud of my work. 
